@@ -1,0 +1,7 @@
+# gaiasupdate 0.1.2 declares astropy<8.0, and imports astroquery.gaia at module scope.
+astropy>=6.0,<8.0
+numpy>=1.26
+pandas>=2.1
+matplotlib
+astroquery>=0.4.7
+gaiasupdate==0.1.2
